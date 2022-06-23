@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Sum of no");
 		System.out.println("Added from git Bash");
 		System.out.println("Added from eclipse");
+		System.out.println("Sum of 2 nos");
 	}
 
 }
