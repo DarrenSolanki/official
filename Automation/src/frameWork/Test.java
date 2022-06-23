@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("Added from git Bash");
 		System.out.println("Added from eclipse");
 		System.out.println("Sum of 2 nos");
+		System.out.println("Added from git bash on 23/06");
 	}
 
 }
