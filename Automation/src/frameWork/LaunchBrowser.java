@@ -12,12 +12,13 @@ public class LaunchBrowser {
 		// TODO Auto-generated method stub
 		
 		WebDriverManager.chromedriver().setup();
+//		WebDriverManager.chromedriver().driverVersion("100.0").setup();
 //		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 
         driver.get("https://selenium.dev");
 
-        driver.quit();
+//        driver.quit();
 
 	}
 
