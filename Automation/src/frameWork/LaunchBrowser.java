@@ -12,7 +12,8 @@ import io.github.bonigarcia.wdm.*;
 public class LaunchBrowser {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+
+		        System.out.println("Added from git bash on 28/06/2022");
 		
 		WebDriverManager.chromedriver().setup();
 //		WebDriverManager.chromedriver().driverVersion("93.0.4577.63").setup();
